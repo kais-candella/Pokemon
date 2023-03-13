@@ -1,0 +1,32 @@
+{
+    "Feu": {
+        "PV": 150,
+        "Defense": 23,
+        "PA": 30
+    },
+    "Eau": {
+        "PV": 200,
+        "Defense": 30,
+        "PA": 20
+    },
+    "Spectre": {
+        "PV": 120,
+        "Defense": 15,
+        "PA": 35
+    },
+    "Normal": {
+        "PV": 180,
+        "Defense": 25,
+        "PA": 25
+    },
+    "Poison": {
+        "PV": 140,
+        "Defense": 20,
+        "PA": 28
+    },
+    "Psy": {
+        "PV": 160,
+        "Defense": 22,
+        "PA": 32
+    }
+}

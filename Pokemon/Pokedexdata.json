@@ -1,0 +1,14 @@
+{
+    "name": "Ectoplasma",
+    "PV": 150,
+    "Defense": 23,
+    "PA": 30,
+    "type": [
+        "Feu",
+        "Eau",
+        "Psy",
+        "Normal",
+        "Spectre",
+        "Poisson"
+    ]
+}
